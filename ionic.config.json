@@ -1,0 +1,8 @@
+{
+  "name": "Apptesanos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "c9b72199"
+}
